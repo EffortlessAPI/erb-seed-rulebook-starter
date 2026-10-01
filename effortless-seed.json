@@ -1,0 +1,9 @@
+{
+  "replacements": [
+    {
+      "key": "projectName",
+      "description": "Short lower-case project name (becomes the repository and database name)",
+      "default": "my-rulebook"
+    }
+  ]
+}
